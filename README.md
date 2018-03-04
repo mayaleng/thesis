@@ -6,7 +6,7 @@ Hace unos años junto a [marroq](https://github.com/marroq) y [jersono](https://
 
 Así que una nueva idea surgió, un tanto más ambiciosa pero a la vez mejor enfocada. Nuestros asesores de curso nos dieron una idea, y nosotros encontramos el punto al cuál enfocarlo.
   * **Speech recognition**
-  * **Real*time translation**
+  * **Real-time translation**
 
 La idea nos pareció genial, así que este trabajo plasma ese sueño.
 
@@ -18,7 +18,9 @@ Me encontré con una amiga que presta servicios en uno de los hospitales públic
 
 Tuvimos una conversación más o menos así:
 > Yo: _Etoy trabajando en mi proyecto de tesis... se basa en traducción de idiomas Mayas... reconocimiento de voz..._
+> 
 > Enma: _Esa aplicación nos ayudaría mucho con las personas que vienen acá  y que no hablan español._
+>
 > Yo: _¡Tienes razón! Creo que sería muy bueno usarlo acá, en el hospital._
 
 Y fue ahí donde la idea, tomó sentido.

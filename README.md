@@ -76,4 +76,4 @@ Esta es la estructura prupueta:
 MIT
 
 *****
-Universidad Galieo, Guatemala.
+Universidad Galileo, Guatemala.

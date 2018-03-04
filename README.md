@@ -66,13 +66,12 @@ Esta es la estructura prupueta:
   * Datos e inferencias
   * Conclusiones
 * Apéndices
-### Todos
+## Todos
 
  * Definir capítulos con mejor certeza
  * Agregar diagramas
 
-License
-****
+## License
 
 MIT
 
